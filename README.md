@@ -9,7 +9,7 @@ This project is a responsive image gallery built using React. It includes featur
 - Thumbnail navigation
 
 ## Project Structure
-your-project/
+
 │
 ├── src/
 │ ├── Assets/
