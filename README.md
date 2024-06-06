@@ -51,3 +51,31 @@ npm install
 
 ### Running the Project
 npm start
+
+Coding Challenges
+
+This repository contains solutions to coding challenges implemented in JavaScript.
+
+Challenges
+1. Array Manipulation
+File: arrayMap.js
+Problem Statement: Given an array of integers and a target sum, determine if there exists a contiguous subarray within the array that sums up to the target.
+Constraints:
+Array length: 1 to 100,000 elements
+Element and target sum range: -1,000,000,000 to 1,000,000,000
+Expected Time Complexity: O(n)
+Expected Space Complexity: O(1)
+2. String Transformation
+File: stringTransform.js
+Problem Statement: Transform a string based on specific rules depending on its length being divisible by 3, 5, or both.
+Constraints:
+String length: 1 to 1000 characters
+Alphanumeric characters and spaces only
+
+How to Run
+Install Node.js if not already installed: Node.js
+Clone this repository: git clone https://github.com/your-username/coding-challenges.git
+Navigate to the project directory: cd challenges
+Install dependencies (if any): npm install
+Run the code for Array Manipulation: node Challenges/arrayMap.js
+Run the code for String Transformation: node Challenges/stringTransform.js
